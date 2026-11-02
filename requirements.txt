@@ -1,0 +1,4 @@
+aiohttp>=3.9
+pynacl>=1.5
+loguru>=0.7
+python-dotenv>=1.0
